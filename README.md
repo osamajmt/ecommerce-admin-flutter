@@ -1,16 +1,23 @@
-# admin_app
+# Ecommerce Admin App (Flutter)
 
-A new Flutter project.
+Admin dashboard application for managing the ecommerce system.
 
-## Getting Started
+## Features
+- Admin authentication
+- Manage products
+- View and manage orders
+- System overview
 
-This project is a starting point for a Flutter application.
+## Tech Stack
+- Flutter
+- Dart
+- REST API
+- GetX
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
+(Add screenshots here)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Related Repositories
+- Backend API: link
+- Customer App: link
+- Driver App: link
