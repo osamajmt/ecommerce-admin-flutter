@@ -15,9 +15,14 @@ Admin dashboard application for managing the ecommerce system.
 - GetX
 
 ## Screenshots
-(Add screenshots here)
+![AdminAvailabeOrders](screenshots/AdminAvailableOrders.png)
+![BeingPreparedOrders](screenshots/beingPreparedOrders.png)
+![Home](screenshots/home.png)
+![Categories](screenshots/categories.png)
+![addProduct](screenshots/addProduct.png)
+![editCategory](screenshots/editCategoy.png)
 
 ## Related Repositories
-- Backend API: link
-- Customer App: link
-- Driver App: link
+- Backend API:[link](https://github.com/osamajmt/ecommerce-api-laravel)
+- Driver App: [link](https://github.com/osamajmt/ecommerce-customer-flutter)
+- Admin App: [link](https://github.com/osamajmt/ecommerce-delivery-flutter)

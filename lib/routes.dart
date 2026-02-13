@@ -1,3 +1,4 @@
+import 'package:admin_app/bindings/editcategorybinding.dart';
 import 'package:admin_app/bindings/edititembinding.dart';
 import 'package:admin_app/core/middleware/mymiddleware.dart';
 import 'package:admin_app/data/dataSource/static/app_routes.dart';
@@ -57,7 +58,7 @@ List<GetPage<dynamic>> routes = [
 
   GetPage(name: appRoute.categories, page: () => const Categories()),
   GetPage(name: appRoute.addCategory, page: () => const AddCategory()),
-  GetPage(name: appRoute.editCategory, page: () => const EditCategory()),
+  GetPage(name: appRoute.editCategory, page: () => const EditCategory(),binding: EditCategoryBinding()),
 
   GetPage(name: appRoute.items, page: () => const Items()),
   GetPage(name: appRoute.addItem, page: () => const AddItem()),
