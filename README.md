@@ -20,7 +20,7 @@ Admin dashboard application for managing the ecommerce system.
 ![Home](screenshots/home.png)
 ![Categories](screenshots/categories.png)
 ![addProduct](screenshots/addProduct.png)
-![editCategory](screenshots/editCategoy.png)
+![editCategory](screenshots/editCategory.png)
 
 ## Related Repositories
 - Backend API:[link](https://github.com/osamajmt/ecommerce-api-laravel)
